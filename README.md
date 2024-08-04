@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación de conversión de video que utiliza Tkinter para la interfaz gráfica y MoviePy para el procesamiento de videos.
 
+![Imagen de portada](portada.png)
+
 ## Descripción
 
 La aplicación permite a los usuarios seleccionar archivos de video y convertirlos a diferentes formatos. La interfaz gráfica es proporcionada por Tkinter, y MoviePy se utiliza para manejar la conversión de video.
